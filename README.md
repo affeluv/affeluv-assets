@@ -1,2 +1,1 @@
 # affeluv-assets
-logo affeluv
